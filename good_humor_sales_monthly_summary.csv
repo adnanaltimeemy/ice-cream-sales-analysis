@@ -1,0 +1,145 @@
+date,product,region,units_sold,revenue,cost,profit,profit_margin
+2025-01-31,Good Humor Chocolate Eclair Bar,Midwest,1920,4646.400000000001,3147.81,1498.59,0.3225
+2025-01-31,Good Humor Chocolate Eclair Bar,Northeast,1066,2014.74,1339.53,675.2099999999999,0.3351
+2025-01-31,Good Humor Chocolate Eclair Bar,South,830,2025.2,1327.22,697.98,0.3446
+2025-01-31,Good Humor Chocolate Eclair Bar,West,641,1487.12,1150.8,336.32,0.2262
+2025-01-31,Good Humor Classic Bar,Midwest,1227,3398.79,2522.93,875.86,0.2577
+2025-01-31,Good Humor Classic Bar,Northeast,1355,3699.15,2488.5099999999998,1210.64,0.3273
+2025-01-31,Good Humor Classic Bar,South,1896,3223.2,2051.7,1171.5,0.3635
+2025-01-31,Good Humor Classic Bar,West,1271,3012.27,1980.66,1031.61,0.3425
+2025-01-31,Good Humor Strawberry Shortcake Bar,Midwest,1070,2332.6,1590.31,742.29,0.3182
+2025-01-31,Good Humor Strawberry Shortcake Bar,Northeast,1306,3695.98,2774.91,921.07,0.2492
+2025-01-31,Good Humor Strawberry Shortcake Bar,South,1717,4395.52,2894.17,1501.3500000000001,0.3416
+2025-01-31,Good Humor Strawberry Shortcake Bar,West,1797,4007.31,2608.93,1398.38,0.349
+2025-02-28,Good Humor Chocolate Eclair Bar,Midwest,1349,2724.98,1680.23,1044.75,0.3834
+2025-02-28,Good Humor Chocolate Eclair Bar,Northeast,1102,2215.02,1755.69,459.33,0.2074
+2025-02-28,Good Humor Chocolate Eclair Bar,South,1965,5167.95,3985.3,1182.65,0.2288
+2025-02-28,Good Humor Chocolate Eclair Bar,West,572,1212.64,956.23,256.40999999999997,0.2114
+2025-02-28,Good Humor Classic Bar,Midwest,1310,3825.2,2780.71,1044.49,0.2731
+2025-02-28,Good Humor Classic Bar,Northeast,1264,2919.84,2246.58,673.26,0.2306
+2025-02-28,Good Humor Classic Bar,South,1305,3562.65,2281.02,1281.63,0.3597
+2025-02-28,Good Humor Classic Bar,West,1726,4832.8,3190.41,1642.39,0.3398
+2025-02-28,Good Humor Strawberry Shortcake Bar,Midwest,1738,3945.2599999999998,2966.88,978.38,0.248
+2025-02-28,Good Humor Strawberry Shortcake Bar,Northeast,1376,2573.12,1987.88,585.24,0.2274
+2025-02-28,Good Humor Strawberry Shortcake Bar,South,1930,3744.2,2895.62,848.58,0.2266
+2025-02-28,Good Humor Strawberry Shortcake Bar,West,1457,2506.04,1579.25,926.79,0.3698
+2025-03-31,Good Humor Chocolate Eclair Bar,Midwest,1774,4435.0,2760.4399999999996,1674.56,0.3776
+2025-03-31,Good Humor Chocolate Eclair Bar,Northeast,975,1608.75,1179.05,429.7,0.2671
+2025-03-31,Good Humor Chocolate Eclair Bar,South,1593,3616.11,2589.77,1026.34,0.2838
+2025-03-31,Good Humor Chocolate Eclair Bar,West,1564,4301.0,3188.35,1112.65,0.2587
+2025-03-31,Good Humor Classic Bar,Midwest,604,1805.96,1210.6299999999999,595.3299999999999,0.3296
+2025-03-31,Good Humor Classic Bar,Northeast,1063,2519.31,1975.44,543.87,0.2159
+2025-03-31,Good Humor Classic Bar,South,1611,3818.0699999999997,2614.88,1203.19,0.3151
+2025-03-31,Good Humor Classic Bar,West,918,2093.04,1483.6599999999999,609.38,0.2911
+2025-03-31,Good Humor Strawberry Shortcake Bar,Midwest,1154,3115.8,1964.76,1151.04,0.3694
+2025-03-31,Good Humor Strawberry Shortcake Bar,Northeast,738,2177.1,1374.78,802.32,0.3685
+2025-03-31,Good Humor Strawberry Shortcake Bar,South,1770,3681.6,2424.11,1257.49,0.3416
+2025-03-31,Good Humor Strawberry Shortcake Bar,West,842,2298.66,1446.28,852.38,0.3708
+2025-04-30,Good Humor Chocolate Eclair Bar,Midwest,1730,5190.0,3467.65,1722.35,0.3319
+2025-04-30,Good Humor Chocolate Eclair Bar,Northeast,522,1200.6,869.95,330.65000000000003,0.2754
+2025-04-30,Good Humor Chocolate Eclair Bar,South,1166,3148.2,2339.9700000000003,808.23,0.2567
+2025-04-30,Good Humor Chocolate Eclair Bar,West,1731,2752.29,1878.33,873.96,0.3175
+2025-04-30,Good Humor Classic Bar,Midwest,1163,2849.35,2008.25,841.1,0.2952
+2025-04-30,Good Humor Classic Bar,Northeast,1351,3418.03,2217.99,1200.04,0.3511
+2025-04-30,Good Humor Classic Bar,South,1179,2428.7400000000002,1830.02,598.72,0.2465
+2025-04-30,Good Humor Classic Bar,West,1771,4870.25,2924.69,1945.56,0.3995
+2025-04-30,Good Humor Strawberry Shortcake Bar,Midwest,1114,1893.8000000000002,1204.96,688.84,0.3637
+2025-04-30,Good Humor Strawberry Shortcake Bar,Northeast,1235,3519.75,2645.53,874.2199999999999,0.2484
+2025-04-30,Good Humor Strawberry Shortcake Bar,South,943,2442.37,1551.15,891.22,0.3649
+2025-04-30,Good Humor Strawberry Shortcake Bar,West,657,1879.02,1302.3600000000001,576.66,0.3069
+2025-05-31,Good Humor Chocolate Eclair Bar,Midwest,877,2508.22,1959.67,548.55,0.2187
+2025-05-31,Good Humor Chocolate Eclair Bar,Northeast,890,1530.8000000000002,1171.94,358.86,0.2344
+2025-05-31,Good Humor Chocolate Eclair Bar,South,836,2190.32,1441.31,749.01,0.342
+2025-05-31,Good Humor Chocolate Eclair Bar,West,967,2001.69,1216.71,784.98,0.3922
+2025-05-31,Good Humor Classic Bar,Midwest,722,1249.06,960.03,289.03,0.2314
+2025-05-31,Good Humor Classic Bar,Northeast,1148,2915.92,2205.47,710.45,0.2436
+2025-05-31,Good Humor Classic Bar,South,1524,3962.4,2457.36,1505.04,0.3798
+2025-05-31,Good Humor Classic Bar,West,540,1063.8,750.69,313.11,0.2943
+2025-05-31,Good Humor Strawberry Shortcake Bar,Midwest,625,1737.5,1387.1,350.4,0.2017
+2025-05-31,Good Humor Strawberry Shortcake Bar,Northeast,876,2400.24,1471.31,928.9300000000001,0.387
+2025-05-31,Good Humor Strawberry Shortcake Bar,South,1318,3268.64,2524.17,744.47,0.2278
+2025-05-31,Good Humor Strawberry Shortcake Bar,West,1821,3987.99,2417.63,1570.36,0.3938
+2025-06-30,Good Humor Chocolate Eclair Bar,Midwest,1618,3931.74,2893.13,1038.61,0.2642
+2025-06-30,Good Humor Chocolate Eclair Bar,Northeast,1602,2531.1600000000003,1841.56,689.6,0.2724
+2025-06-30,Good Humor Chocolate Eclair Bar,South,1337,2112.46,1480.22,632.24,0.2993
+2025-06-30,Good Humor Chocolate Eclair Bar,West,1231,2474.31,1868.17,606.14,0.245
+2025-06-30,Good Humor Classic Bar,Midwest,2363,6238.32,4310.43,1927.8899999999999,0.309
+2025-06-30,Good Humor Classic Bar,Northeast,1312,2938.88,1966.89,971.99,0.3307
+2025-06-30,Good Humor Classic Bar,South,1092,3155.88,2166.74,989.14,0.3134
+2025-06-30,Good Humor Classic Bar,West,1366,2622.72,1795.49,827.23,0.3154
+2025-06-30,Good Humor Strawberry Shortcake Bar,Midwest,1404,2288.52,1446.17,842.3499999999999,0.3681
+2025-06-30,Good Humor Strawberry Shortcake Bar,Northeast,746,1775.48,1312.69,462.79,0.2607
+2025-06-30,Good Humor Strawberry Shortcake Bar,South,1786,3089.78,1877.5,1212.28,0.3924
+2025-06-30,Good Humor Strawberry Shortcake Bar,West,1316,2039.8,1381.58,658.22,0.3227
+2025-07-31,Good Humor Chocolate Eclair Bar,Midwest,1051,1933.8400000000001,1459.93,473.90999999999997,0.2451
+2025-07-31,Good Humor Chocolate Eclair Bar,Northeast,2086,5465.32,4087.2200000000003,1378.1,0.2522
+2025-07-31,Good Humor Chocolate Eclair Bar,South,2502,5329.26,3809.62,1519.6399999999999,0.2852
+2025-07-31,Good Humor Chocolate Eclair Bar,West,1871,5463.32,4338.04,1125.28,0.206
+2025-07-31,Good Humor Classic Bar,Midwest,2003,3925.8799999999997,2370.19,1555.69,0.3963
+2025-07-31,Good Humor Classic Bar,Northeast,653,1645.56,1089.8400000000001,555.72,0.3377
+2025-07-31,Good Humor Classic Bar,South,2029,4788.44,3083.16,1705.28,0.3561
+2025-07-31,Good Humor Classic Bar,West,2160,5184.0,3819.0,1365.0,0.2633
+2025-07-31,Good Humor Strawberry Shortcake Bar,Midwest,1083,1808.6100000000001,1304.68,503.93000000000006,0.2786
+2025-07-31,Good Humor Strawberry Shortcake Bar,Northeast,1177,2236.3,1500.6100000000001,735.6899999999999,0.329
+2025-07-31,Good Humor Strawberry Shortcake Bar,South,1409,3395.69,2466.67,929.02,0.2736
+2025-07-31,Good Humor Strawberry Shortcake Bar,West,1015,1898.05,1248.35,649.7,0.3423
+2025-08-31,Good Humor Chocolate Eclair Bar,Midwest,1680,4905.6,3780.6000000000004,1125.0,0.2293
+2025-08-31,Good Humor Chocolate Eclair Bar,Northeast,2569,7655.62,5153.96,2501.66,0.3268
+2025-08-31,Good Humor Chocolate Eclair Bar,South,1853,3150.1,2253.41,896.69,0.2847
+2025-08-31,Good Humor Chocolate Eclair Bar,West,1557,3814.6499999999996,2293.93,1520.72,0.3987
+2025-08-31,Good Humor Classic Bar,Midwest,672,1370.8799999999999,965.94,404.94,0.2954
+2025-08-31,Good Humor Classic Bar,Northeast,1055,2753.55,2185.86,567.69,0.2062
+2025-08-31,Good Humor Classic Bar,South,858,1518.66,1041.53,477.13,0.3142
+2025-08-31,Good Humor Classic Bar,West,2129,3236.08,2179.88,1056.2,0.3264
+2025-08-31,Good Humor Strawberry Shortcake Bar,Midwest,1119,3110.8199999999997,1937.23,1173.59,0.3773
+2025-08-31,Good Humor Strawberry Shortcake Bar,Northeast,2577,4999.38,3683.18,1316.2,0.2633
+2025-08-31,Good Humor Strawberry Shortcake Bar,South,899,2490.23,1588.97,901.26,0.3619
+2025-08-31,Good Humor Strawberry Shortcake Bar,West,2185,4501.1,3405.6600000000003,1095.44,0.2434
+2025-09-30,Good Humor Chocolate Eclair Bar,Midwest,681,1859.13,1117.59,741.54,0.3989
+2025-09-30,Good Humor Chocolate Eclair Bar,Northeast,1532,3998.52,2457.67,1540.85,0.3854
+2025-09-30,Good Humor Chocolate Eclair Bar,South,1414,2177.56,1725.95,451.61,0.2074
+2025-09-30,Good Humor Chocolate Eclair Bar,West,850,1623.5,1218.24,405.26,0.2496
+2025-09-30,Good Humor Classic Bar,Midwest,909,2281.59,1810.71,470.88,0.2064
+2025-09-30,Good Humor Classic Bar,Northeast,1599,3277.95,2535.98,741.97,0.2264
+2025-09-30,Good Humor Classic Bar,South,851,1285.01,790.95,494.06,0.3845
+2025-09-30,Good Humor Classic Bar,West,854,2544.92,1570.35,974.5699999999999,0.3829
+2025-09-30,Good Humor Strawberry Shortcake Bar,Midwest,1597,2443.41,1759.92,683.49,0.2797
+2025-09-30,Good Humor Strawberry Shortcake Bar,Northeast,1151,2117.84,1607.98,509.86,0.2407
+2025-09-30,Good Humor Strawberry Shortcake Bar,South,1645,4161.85,3007.85,1154.0,0.2773
+2025-09-30,Good Humor Strawberry Shortcake Bar,West,1553,2950.7,2096.9900000000002,853.71,0.2893
+2025-10-31,Good Humor Chocolate Eclair Bar,Midwest,1472,3061.76,2234.61,827.15,0.2702
+2025-10-31,Good Humor Chocolate Eclair Bar,Northeast,1213,3190.19,2533.38,656.81,0.2059
+2025-10-31,Good Humor Chocolate Eclair Bar,South,1227,2809.83,1741.64,1068.19,0.3802
+2025-10-31,Good Humor Chocolate Eclair Bar,West,746,2193.24,1627.68,565.56,0.2579
+2025-10-31,Good Humor Classic Bar,Midwest,831,2310.1800000000003,1690.76,619.42,0.2681
+2025-10-31,Good Humor Classic Bar,Northeast,1125,2700.0,1893.8999999999999,806.1,0.2986
+2025-10-31,Good Humor Classic Bar,South,521,974.27,585.0,389.27,0.3996
+2025-10-31,Good Humor Classic Bar,West,1749,4110.15,3007.86,1102.29,0.2682
+2025-10-31,Good Humor Strawberry Shortcake Bar,Midwest,1240,2356.0,1864.16,491.84000000000003,0.2088
+2025-10-31,Good Humor Strawberry Shortcake Bar,Northeast,1108,2991.6,2088.34,903.26,0.3019
+2025-10-31,Good Humor Strawberry Shortcake Bar,South,1631,3033.66,1986.63,1047.03,0.3451
+2025-10-31,Good Humor Strawberry Shortcake Bar,West,559,1649.05,1197.84,451.21,0.2736
+2025-11-30,Good Humor Chocolate Eclair Bar,Midwest,928,1837.44,1274.09,563.35,0.3066
+2025-11-30,Good Humor Chocolate Eclair Bar,Northeast,1593,3074.49,2106.39,968.0999999999999,0.3149
+2025-11-30,Good Humor Chocolate Eclair Bar,South,1209,3554.46,2615.29,939.17,0.2642
+2025-11-30,Good Humor Chocolate Eclair Bar,West,1370,4027.8,3065.35,962.45,0.239
+2025-11-30,Good Humor Classic Bar,Midwest,1945,3948.3500000000004,2707.98,1240.37,0.3141
+2025-11-30,Good Humor Classic Bar,Northeast,1889,5232.53,3932.66,1299.87,0.2484
+2025-11-30,Good Humor Classic Bar,South,1898,3966.82,2787.35,1179.47,0.2973
+2025-11-30,Good Humor Classic Bar,West,1000,2620.0,1980.6299999999999,639.37,0.244
+2025-11-30,Good Humor Strawberry Shortcake Bar,Midwest,1209,2055.3,1359.71,695.59,0.3384
+2025-11-30,Good Humor Strawberry Shortcake Bar,Northeast,592,1266.8799999999999,947.16,319.71999999999997,0.2524
+2025-11-30,Good Humor Strawberry Shortcake Bar,South,798,1803.48,1149.81,653.67,0.3624
+2025-11-30,Good Humor Strawberry Shortcake Bar,West,1234,2023.76,1345.49,678.27,0.3352
+2025-12-31,Good Humor Chocolate Eclair Bar,Midwest,1238,2537.9,1930.38,607.52,0.2394
+2025-12-31,Good Humor Chocolate Eclair Bar,Northeast,817,1560.47,1245.83,314.64,0.2016
+2025-12-31,Good Humor Chocolate Eclair Bar,South,812,1745.8,1390.75,355.05,0.2034
+2025-12-31,Good Humor Chocolate Eclair Bar,West,1370,3205.8,2098.92,1106.88,0.3453
+2025-12-31,Good Humor Classic Bar,Midwest,724,1455.24,932.51,522.73,0.3592
+2025-12-31,Good Humor Classic Bar,Northeast,1963,5751.59,4342.71,1408.8799999999999,0.245
+2025-12-31,Good Humor Classic Bar,South,1730,4757.5,2995.72,1761.78,0.3703
+2025-12-31,Good Humor Classic Bar,West,1294,2109.2200000000003,1526.64,582.58,0.2762
+2025-12-31,Good Humor Strawberry Shortcake Bar,Midwest,948,2407.92,1606.29,801.63,0.3329
+2025-12-31,Good Humor Strawberry Shortcake Bar,Northeast,979,2241.91,1607.92,633.99,0.2828
+2025-12-31,Good Humor Strawberry Shortcake Bar,South,1967,3973.34,3109.53,863.81,0.2174
+2025-12-31,Good Humor Strawberry Shortcake Bar,West,985,1516.9,1116.8600000000001,400.04,0.2637
